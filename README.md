@@ -22,4 +22,4 @@ Download
 
 To make things a lot more simple the contents of this GitHub repository has been exported to a unity3D custom importable package. You can download this Unity3D package at the following link:
 
-http://rtfm.exhalegames.com/f/unity3d/pkgs/unity3d-standard-assets-cs.unitypackage
+http://rtfm.exhalegames.com/?ddownload=487
