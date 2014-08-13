@@ -1,4 +1,4 @@
-Unity3D-Sandard-Assets-CS
+Unity3D-Standard-Assets-CS
 ==========================
 
 A C# drop in replacement for the default Unity3D "Standard Assets Package" and its JS camera and general scripts.
